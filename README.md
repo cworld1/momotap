@@ -7,9 +7,9 @@
 
 ## DEMO
 
-[Momotap](https://wolf03.github.io/momotap)
+[Momotap from Github](https://wolf03.github.io/momotap)
 
-[Momotap](https://aidn.jp/momotap/)
+[Momotap from AIDN](https://aidn.jp/momotap/)
 
 ## 自行编辑 Self-edit
 
