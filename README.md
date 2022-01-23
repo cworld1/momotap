@@ -1,4 +1,4 @@
-[中文文档](/blob/master/README_CN.md)
+[中文文档](/README_CN.md)
 
 # Momotap
 
