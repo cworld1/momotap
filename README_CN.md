@@ -8,7 +8,7 @@
 
 [Momotap from Github](https://cworld1.github.io/momotap/)
 
-~~Momotap from AIDN~~(官方自己的已经坏掉了)
+[Momotap from AIDN](https://aidn.jp/momotap/)
 
 ## 自行编辑
 
