@@ -10,7 +10,7 @@ A Mainland China friendly and independent version extracted from [https://aidn.j
 
 [Momotap from Github](https://cworld1.github.io/momotap/)
 
-~~Momotap from AIDN~~(The official one has been broken)
+[Momotap from AIDN](https://aidn.jp/momotap/)
 
 ## Self-edit
 
